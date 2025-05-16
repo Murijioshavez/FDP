@@ -1,0 +1,14 @@
+{
+    "Juan Pérez": {
+        "Edad": 16,
+        "Matemáticas": 8.5,
+        "Física": 7.8,
+        "Historia": 9.0
+    },
+    "Ana López": {
+        "Edad": 17,
+        "Matemáticas": 9.0,
+        "Historia": 8.2,
+        "Física": 8.5
+    }
+}

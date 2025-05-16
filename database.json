@@ -1,0 +1,44 @@
+{
+    "students": [
+        {
+            "name": "Julio",
+            "calculo": 90,
+            "fisica": 80,
+            "dp": 60,
+            "intro": 8,
+            "programacion": 95
+        },
+        {
+            "name": "Rafael",
+            "calculo": 20,
+            "fisica": 50,
+            "dp": 90,
+            "intro": 20,
+            "programacion": 40
+        },
+        {
+            "name": "Oliver",
+            "calculo": 100,
+            "fisica": 80,
+            "dp": 90,
+            "intro": 97,
+            "programacion": 95
+        },
+        {
+            "name": "Juan",
+            "calculo": 50,
+            "fisica": 50,
+            "dp": 70,
+            "intro": 80,
+            "programacion": 90
+        },
+        {
+            "name": "julio",
+            "calculo": 0,
+            "fisica": 0,
+            "dp": 0,
+            "intro": 0,
+            "programacion": 0
+        }
+    ]
+}
