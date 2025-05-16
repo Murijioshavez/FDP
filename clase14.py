@@ -25,11 +25,13 @@ if consumido <0:
 elif consumido >= 0 and consumido <= 100:
     print('Sin impuestos')
 elif consumido >= 101 and consumido <= 200:
-    impuesto = consumido * 0.5
+    for i in range(consumido+1):
+        impuesto += 0.05
     print('Su impuesto es:', impuesto)
     print(f'el total es ${consumido + impuesto}')
 elif consumido >= 201:
-    impuesto = consumido * 0.7
+    for i in range(consumido+1):
+        impuesto += 0.07
     print('Su impuesto es:', impuesto)
     print(f'el total es ${consumido+impuesto}')
     
