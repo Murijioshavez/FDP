@@ -1,3 +1,12 @@
+'''
+Clase:        Tipos de datos
+Tema:         Tema de la clase
+Ejercicio:    Identificador de la clase
+Descripción:  Filtro de contrasenias seguras, impuestos según consumo y números mágicos
+Autor:        Mauricio Alejandro Chávez Funes
+Fecha:        2025-05-15
+Estado:       [ Terminado ]
+'''
 password = input('Ingrese su contrasenia:')
 longitud = False
 mayus = False
