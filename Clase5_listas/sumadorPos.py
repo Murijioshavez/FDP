@@ -9,17 +9,16 @@ Fecha:        2025-05-28
 Estado:       [ Terminado ]
 '''
 numero = input('Ingrese el numero a sumar ')
-x = numero
+
 while True:
-    y = x   
-    if len(x) > 1:
+    y = numero   
+    if len(numero) > 1:
         lista = []
-        for j in x:
+        for j in numero:
             lista.append(int(j))       
-    x = str(sum(lista))
-    if len(x) == 1:
-        print(f"{y} = {x}")
+    numero = str(sum(lista))
+    print(f"{y} = {numero}")
+    if len(numero) == 1:
         break
-    print(f"{y} = {x}")
     
-print('El resultado final es:', x)
+print('El resultado final es:', numero)
