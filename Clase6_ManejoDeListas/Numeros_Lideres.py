@@ -1,3 +1,13 @@
+'''
+Clase:        Correlativo de clase
+Tema:         Listas
+Ejercicio:    Numeros lideres
+Descripción:  Pues segui las indicaciones de la guia
+
+Autor:        Mauricio ALejandro Chávez Funes
+Fecha:        2025-05-28
+Estado:       [ Terminado ]
+'''
 entrada = input('Entre su lista de numeros separados por espacios: ')
 lista_numeros = entrada.split()
 lista_numeros = [int(x) for x in lista_numeros]
